@@ -1,4 +1,4 @@
 # TestRepo
 Another test repository
 
-Opet pomaze Bog!
+Opet pomaze Bog! x2
